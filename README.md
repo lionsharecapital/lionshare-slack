@@ -1,6 +1,6 @@
 # Lionshare Slack (Beta)
 
-<img src="./assets/lionshare.png" align="right" alt="ls" />
+<img src="./assets/lionshare256x256.png" align="right" alt="ls" />
 
 Checking digital currency prices at work has never been easier with the Lionshare slack bot. Lionshare lets you select currencies to follow, report on your daily gains/loses and can display then with the simple `/ls` command.
 
