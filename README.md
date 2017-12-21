@@ -16,8 +16,8 @@ Checking digital currency prices at work has never been easier with the Lionshar
 
 <img src="./assets/ls_get.gif" alt="lionshare get" />
 
-`/ls add BTC` will allow you to track bitcoin and other currencies, now `/ls` will also report on currencies that you are tracking.
+`/ls add BTC` will allow you to track Bitcoin and other currencies, now `/ls` will also report on currencies that you are tracking.
 
-`/ls add BTC 2.5` will set the value of your crypto-currency investment and `/ls` will now also return the total value of your assets.
+`/ls add BTC 2.5` will set the value of your digital currency investment and `/ls` will now also return the total value of your assets.
 
 <img src="./assets/ls_add.gif" alt="lionshare add" />
